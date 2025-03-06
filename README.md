@@ -93,7 +93,7 @@ Once complete, the script will generate a `.roadtools_auth` file:
 
 ### 4. Use the Token with ROADTools
 
-Export the token file path:
+run `roadrecon gather`. Follow --help for gather to select correct option to point roadrecon to your .roadtools_auth file if needed.
 
 
 ## Troubleshooting
